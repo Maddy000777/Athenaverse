@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Getting Started
 
 Create a project using this example:
@@ -38,3 +39,10 @@ You can check out [the thirdweb GitHub organization](https://github.com/thirdweb
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+=======
+# Athenaverse
+It is a NFT Marketplace project. Which is created using smartContract api of Thirdweb. I also used Nft Collection api of Thirdweb. 
+
+This is my first project with backend/Smartcontract. Also this is my first project in Web3. I might have made a lot of mistakes. 
+It would be helpful of you to look into it and help me in making this NFT Marketplace project.
+>>>>>>> 4c3247b9236db0f20e2575e90e74c466f57b84f4
